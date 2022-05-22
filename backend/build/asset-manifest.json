@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.426bca63.css",
+    "main.js": "/static/js/main.a71d945e.js",
+    "static/media/are.png": "/static/media/are.9409f7d95e6460ec34cd.png",
+    "static/media/fried_chiken.png": "/static/media/fried_chiken.a5911137601b364c0a52.png",
+    "static/media/pizza.png": "/static/media/pizza.b7bf791f16baadbdf28e.png",
+    "static/media/sandwich.png": "/static/media/sandwich.c020b2b319022b650364.png",
+    "static/media/rumen.png": "/static/media/rumen.df7415ebc0f431a04f32.png",
+    "static/media/How Does It Work.png": "/static/media/How Does It Work.8a4cdf5811db2e0892ef.png",
+    "static/media/yellow_bg.png": "/static/media/yellow_bg.1877c38b7f449502fdaf.png",
+    "static/media/ghorKuno_Combined.png": "/static/media/ghorKuno_Combined.8dd92982a188a64e71b2.png",
+    "static/media/ghorKuno_title.png": "/static/media/ghorKuno_title.694bea3bd819327f0d6e.png",
+    "static/media/signup_lady.svg": "/static/media/signup_lady.0cebe6f26566c58349cb700307b2f8d6.svg",
+    "static/media/kitchen_mom.png": "/static/media/kitchen_mom.49ce5d22cfac5daab96f.png",
+    "static/media/otp_verify.svg": "/static/media/otp_verify.5160ad8b3aa0eb39d4eb0b04d3e0b819.svg",
+    "static/media/forgot password.svg": "/static/media/forgot password.0a3d031e4a5f7d2ed7b180e450c65129.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.426bca63.css.map": "/static/css/main.426bca63.css.map",
+    "main.a71d945e.js.map": "/static/js/main.a71d945e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426bca63.css",
+    "static/js/main.a71d945e.js"
+  ]
+}
