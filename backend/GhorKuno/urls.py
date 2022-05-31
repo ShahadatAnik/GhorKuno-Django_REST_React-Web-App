@@ -15,9 +15,9 @@ router.register('deliveryboy', DeliveryBoyViewSet, basename='deliveryboy')
 router.register('cart', CartViewSet, basename='cart')
 router.register('order', OrderViewSet, basename='order')
 router.register('orderHistory', OrderHistoryViewSet, basename='orderHistory')
+
 urlpatterns = [
     path('gk/', include(router.urls)),
-
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
